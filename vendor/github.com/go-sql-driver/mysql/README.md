@@ -446,7 +446,6 @@ Version 1.0 of the driver recommended adding `&charset=utf8` (alias for `SET NAM
 
 See http://dev.mysql.com/doc/refman/5.7/en/charset-unicode.html for more details on MySQL's Unicode support.
 
-
 ## Testing / Development
 To run the driver tests you may need to adjust the configuration. See the [Testing Wiki-Page](https://github.com/go-sql-driver/mysql/wiki/Testing "Testing") for details.
 
